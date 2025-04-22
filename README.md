@@ -24,4 +24,4 @@ Popular activities
 ## How to Run
 Open the notebooks in Jupyter or Google Colab 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/ku-net-predict/blob/main/notebooks/main_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/peerapoljantimee/ku-net-predict/blob/main/notebooks/Internet_Usage_Prediction_with_Regression.ipynb)
