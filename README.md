@@ -5,13 +5,13 @@ Surveyed internet usage patterns among Kasetsart University Sriracha Campus stud
 
 ## Visualizations
 
-Overall characteristics of the survey results
+### Overall Survey Results
 ![Overall characteristics of the survey results](./visualizations/img/Internet-usage-report_page-0002.jpg)
 
-Using the Internet
+### Internet Usage Patterns
 ![Using the Internet](./visualizations/img/Internet-usage-report_page-0003.jpg)
 
-Popular activities
+### Popular Online Activities
 ![Popular activities](./visualizations/img/Internet-usage-report_page-0004.jpg)
 
 
